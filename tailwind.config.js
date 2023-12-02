@@ -7,9 +7,8 @@ export default {
   theme: {
     fontFamily: {
       sans: ['Figtree', 'sans-serif'],
-      //hand: ['Permanent Marker', 'cursive'],
       hand: ['Rock Salt', 'cursive'],
-      serif: ['serif'],
+      terminal: ['"Press Start 2P"', 'sans-serif'],
     },
     colors: {
       transparent: 'transparent', // Transparent
